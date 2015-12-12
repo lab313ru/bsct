@@ -1,0 +1,7 @@
+const
+  LIB_NAME = 'bsct_dll.dll';
+
+function Decompress(src, dst: Pointer): word; cdecl; external LIB_NAME name 'Decompress';
+function DecompressedSize(src: Pointer): word; cdecl; external LIB_NAME name 'DecompressedSize';
+function CompressedSize(src: Pointer): word; cdecl; external LIB_NAME name 'CompressedSize';
+function Compress(src, dst: Pointer; Length: word): word; cdecl; external LIB_NAME name 'Compress';

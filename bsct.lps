@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Release"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="bsct.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="154"/>
+        <CursorPos X="65" Y="168"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ucompressor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="48"/>
+        <CursorPos X="49" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="530"/>
+        <CursorPos X="11" Y="548"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\i386\i386.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="385"/>
+        <CursorPos X="10" Y="403"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\fcl-base\src\custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="453"/>
+        <CursorPos X="3" Y="453"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:\Tiny Toon\tt_tool_v11\sact.lpr"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="ucompressor.pas"/>
+        <Caret Line="174" TopLine="158"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ucompressor.pas"/>
+        <Caret Line="175" TopLine="158"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ucompressor.pas"/>
+        <Caret Line="177" TopLine="158"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ucompressor.pas"/>
+        <Caret Line="178" TopLine="158"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ucompressor.pas"/>
+        <Caret Line="180" TopLine="158"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ucompressor.pas"/>
+        <Caret Line="181" TopLine="158"/>
+      </Position6>
+      <Position7>
+        <Filename Value="bsct.pas"/>
+        <Caret Line="3" Column="49"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="2">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="sact.lpr"/>
+        <Line Value="108"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ucompressor.pas"/>
+        <Line Value="174"/>
+      </Item2>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
